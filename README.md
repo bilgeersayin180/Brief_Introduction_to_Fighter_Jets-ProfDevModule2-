@@ -11,4 +11,7 @@ As you download and then extract the zip file, you will see that it contains thr
 For each animation, just click on the file of the animation and open the Processing 4.3 program of the animation. As you open the Processing 4.3 program,
 you will notice a triangle inside circle at top left. Click on that to start playing the animation and enjoy!
 
+You can also watch the animations without the need of getting into installation and running of Processing 4.3 by watching the phone recordings of each animation. 
+Howeever, I strongly recommand installing Processing 4.3 and running the animations on it for much better graphics and quality in general.    
+
 
